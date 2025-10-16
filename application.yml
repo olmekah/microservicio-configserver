@@ -3,6 +3,6 @@ spring:
     config:
       server:
         git:
-          uri: C:\workspaces\microservices\demo\configuration
+          uri: https://github.com/olmekah/microservicio-configserver.git
 server:
   port: 8888
