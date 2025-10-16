@@ -5,4 +5,4 @@ spring:
         git:
           uri: https://github.com/olmekah/microservicio-configserver.git
 server:
-  port: 8888
+  port: 6666
